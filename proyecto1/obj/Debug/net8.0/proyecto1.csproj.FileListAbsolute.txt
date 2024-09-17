@@ -1,0 +1,17 @@
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\bin\Debug\net8.0\proyecto1.exe
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\bin\Debug\net8.0\proyecto1.deps.json
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\bin\Debug\net8.0\proyecto1.runtimeconfig.json
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\bin\Debug\net8.0\proyecto1.dll
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\bin\Debug\net8.0\proyecto1.pdb
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.csproj.AssemblyReference.cache
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.AssemblyInfoInputs.cache
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.AssemblyInfo.cs
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.csproj.Up2Date
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.dll
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\refint\proyecto1.dll
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.pdb
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\proyecto1.genruntimeconfig.cache
+C:\Users\S&S COMPUTACION\Documents\Manejo e implementacion de archivos\proyecto1\obj\Debug\net8.0\ref\proyecto1.dll
